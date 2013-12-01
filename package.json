@@ -1,0 +1,21 @@
+{
+  "name": "hexo-yuidoc",
+  "version": "0.0.1",
+  "directories": {
+    "lib": "./lib",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tommy351/hexo-yuidoc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tommy351/hexo-yuidoc/issues"
+  },
+  "keywords": ["hexo", "yuidoc"],
+  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/tommy351/hexo-yuidoc/master/LICENSE"
+  },
+  "dependencies": {}
+}
