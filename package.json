@@ -22,10 +22,10 @@
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "license": {
     "type": "MIT",
-    "url": "https://raw.github.com/tommy351/hexo/master/LICENS"
+    "url": "https://raw.github.com/tommy351/hexo/master/LICENSE"
   },
   "dependencies": {
-    "lodash": "2.4.0",
-    "swig": "0.14.0"
+    "lodash": "2.4.1",
+    "async": "0.2.10"
   }
 }
