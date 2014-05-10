@@ -1,6 +1,6 @@
 {
   "name": "hexo-yuidoc",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "YUIDoc generator for Hexo",
   "main": "lib/index",
   "directories": {
@@ -17,7 +17,8 @@
   "keywords": [
     "hexo",
     "yuidoc",
-    "api"
+    "api",
+    "generator"
   ],
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "license": {
@@ -25,7 +26,7 @@
     "url": "https://raw.github.com/tommy351/hexo/master/LICENSE"
   },
   "dependencies": {
-    "lodash": "2.4.1",
-    "async": "0.2.10"
+    "async": "^0.8.0",
+    "lodash": "^2.4.1"
   }
 }
