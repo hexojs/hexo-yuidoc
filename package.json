@@ -1,6 +1,6 @@
 {
   "name": "hexo-yuidoc",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "YUIDoc generator for Hexo",
   "main": "lib/index",
   "directories": {
