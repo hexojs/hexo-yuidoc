@@ -1,6 +1,10 @@
-# YUIDoc
+# hexo-yuidoc
 
 Generate [YUIDoc] with Hexo.
+
+## Deprecated
+
+It's not compatible with Hexo 3.
 
 ## Install
 
