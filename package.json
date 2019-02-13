@@ -26,7 +26,7 @@
     "url": "https://raw.github.com/tommy351/hexo/master/LICENSE"
   },
   "dependencies": {
-    "async": "^0.8.0",
+    "async": "^2.6.2",
     "lodash": "^2.4.1"
   }
 }
